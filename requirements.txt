@@ -1,0 +1,24 @@
+# Deep Learning
+torch
+torchvision
+
+# YOLO Object Detection
+ultralytics
+
+# Image Processing
+opencv-python
+numpy
+pillow
+scikit-image
+
+# Image Quality Assessment
+brisque
+
+# Machine Learning
+scikit-learn
+
+# Utilities
+pyyaml
+tqdm
+pandas
+matplotlib
